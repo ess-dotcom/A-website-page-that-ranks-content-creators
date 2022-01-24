@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    padding: 5px;
+    width: 200px;
+}
+
+.imgBox {
+    width: auto;
+    height: 100px;
+}
